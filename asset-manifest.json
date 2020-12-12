@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/mysuru-website-HackthonProject-/static/css/main.2a1d2a66.chunk.css",
+    "main.js": "/mysuru-website-HackthonProject-/static/js/main.28788567.chunk.js",
+    "main.js.map": "/mysuru-website-HackthonProject-/static/js/main.28788567.chunk.js.map",
+    "runtime-main.js": "/mysuru-website-HackthonProject-/static/js/runtime-main.7697243a.js",
+    "runtime-main.js.map": "/mysuru-website-HackthonProject-/static/js/runtime-main.7697243a.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/mysuru-website-HackthonProject-/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.e81e0fa9.chunk.js": "/mysuru-website-HackthonProject-/static/js/2.e81e0fa9.chunk.js",
+    "static/js/2.e81e0fa9.chunk.js.map": "/mysuru-website-HackthonProject-/static/js/2.e81e0fa9.chunk.js.map",
+    "index.html": "/mysuru-website-HackthonProject-/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/mysuru-website-HackthonProject-/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.2a1d2a66.chunk.css.map": "/mysuru-website-HackthonProject-/static/css/main.2a1d2a66.chunk.css.map",
+    "static/js/2.e81e0fa9.chunk.js.LICENSE.txt": "/mysuru-website-HackthonProject-/static/js/2.e81e0fa9.chunk.js.LICENSE.txt",
+    "static/media/Nalanda.283f3b6f.jpg": "/mysuru-website-HackthonProject-/static/media/Nalanda.283f3b6f.jpg",
+    "static/media/NightCamp.580ef6c5.jpg": "/mysuru-website-HackthonProject-/static/media/NightCamp.580ef6c5.jpg",
+    "static/media/Privateplane.42e8df44.jpg": "/mysuru-website-HackthonProject-/static/media/Privateplane.42e8df44.jpg",
+    "static/media/Safari.2135d999.jpg": "/mysuru-website-HackthonProject-/static/media/Safari.2135d999.jpg",
+    "static/media/childwater.66022951.jpg": "/mysuru-website-HackthonProject-/static/media/childwater.66022951.jpg",
+    "static/media/doctor-woman.f6ef6560.svg": "/mysuru-website-HackthonProject-/static/media/doctor-woman.f6ef6560.svg",
+    "static/media/festival.4b646112.jpg": "/mysuru-website-HackthonProject-/static/media/festival.4b646112.jpg",
+    "static/media/garden.7c47a16a.jpg": "/mysuru-website-HackthonProject-/static/media/garden.7c47a16a.jpg",
+    "static/media/infoses.12836b42.jpg": "/mysuru-website-HackthonProject-/static/media/infoses.12836b42.jpg",
+    "static/media/lake.f97f588f.jpg": "/mysuru-website-HackthonProject-/static/media/lake.f97f588f.jpg",
+    "static/media/index.css": "/mysuru-website-HackthonProject-/static/media/mysuru1.8b5e3458.jpg",
+    "static/media/mysuru2.69d84220.jpg": "/mysuru-website-HackthonProject-/static/media/mysuru2.69d84220.jpg",
+    "static/media/mysurupalace.653c7d53.jpg": "/mysuru-website-HackthonProject-/static/media/mysurupalace.653c7d53.jpg",
+    "static/media/palace.b5a2f67c.jpg": "/mysuru-website-HackthonProject-/static/media/palace.b5a2f67c.jpg",
+    "static/media/road (6).cc4de327.jpg": "/mysuru-website-HackthonProject-/static/media/road (6).cc4de327.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7697243a.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.e81e0fa9.chunk.js",
+    "static/css/main.2a1d2a66.chunk.css",
+    "static/js/main.28788567.chunk.js"
+  ]
+}
